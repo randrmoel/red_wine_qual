@@ -1,2 +1,2 @@
 # red_wine_qual
-regression to find red wine quality
+regression to find red wine quality and other tasks
